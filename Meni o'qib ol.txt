@@ -1,0 +1,8 @@
+# Django-embed-video
+Quyidagi ishlarni bajarishingiz kerak:
+1.pip install django
+2.pip install django-embed-video
+3.python manage.py migrate
+4.python manage.py runserver
+Dastur siz uchun tayyor😉😉😉
+Youtube kanalimizga obuna bo'lishni unutmang
